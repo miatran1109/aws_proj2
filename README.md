@@ -12,8 +12,8 @@ You can clone this repo to run the project locally, or navigate to the workspace
 To complete this project, you will need to:
 
 * Set up node environment
-* Create a new endpoint in the server.js file
-* Deploying your system
+* Create a new endpoint in the server.js file at 
+* Deploying your system: http://udacity-proj2-dev.us-east-1.elasticbeanstalk.com/
 
 ## Testing
 
